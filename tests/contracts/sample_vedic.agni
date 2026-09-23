@@ -1,0 +1,10 @@
+// Kasturisundari Chain — Sample Vedic Smart Contract
+// This contract demonstrates allocating variables and performing basic arithmetic 
+// using Panini's Sutras as opcodes.
+
+वृद्धिरादैच्      // OP_ALLOC (pushes 0 to initialize stack)
+100               // PUSH argument
+50                // PUSH argument
+अकः सवर्णे दीर्घः // OP_ADD (adds 50 + 100 = 150)
+इको यणचि          // OP_SUB (subtracts 150 from 0)
+                  // OP_END is implicitly appended by the compiler

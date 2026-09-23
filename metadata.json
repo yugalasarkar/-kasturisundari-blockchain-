@@ -1,0 +1,6 @@
+{
+  "name": "Satya Explorer",
+  "description": "Lightning-fast EVM Block Explorer for KasturiChain (Chain ID: 108108, KST) with live metrics, omni search, manuscript cryptographic verification, and EC2 Nginx deployment automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "KasturiChain Mainnet",
+  "chain": "KASTURI",
+  "icon": "tilak",
+  "rpc": [
+    "https://rpc.yugala.org",
+    "https://rpc.kasturisundari.xyz"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Nilashyam",
+    "symbol": "NILA",
+    "decimals": 18,
+    "icon": "nila"
+  },
+  "infoURL": "https://yugala.org",
+  "shortName": "kasturi",
+  "chainId": 108108,
+  "networkId": 108108,
+  "slip44": 60,
+  "status": "active",
+  "explorers": [
+    {
+      "name": "Satya Explorer",
+      "url": "https://satya.yugala.org",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Satya Explorer Backup",
+      "url": "https://satya.kasturisundari.xyz",
+      "standard": "EIP3091"
+    }
+  ]
+}
