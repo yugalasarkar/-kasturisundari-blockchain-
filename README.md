@@ -63,4 +63,4 @@ KasturiChain exposes standard Web3-compliant JSON-RPC interfaces alongside AggKi
 
 ## License
 
-MIT Open Source License.
+GNU Affero General Public License v3.0 (AGPL-3.0) — Strict Copyleft. Any modifications, derived works, or network-hosted deployments must remain fully open source under AGPL-3.0.
